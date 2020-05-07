@@ -5,3 +5,6 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+git stash
+# do your pull
+git stash pop
